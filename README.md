@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://x.com/Sudeep2102?t=sNs2wKYIdg9k3qsCh70OtQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudeep2102" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sudeep2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeep2102" height="30" width="40" /></a>
-<a href="https://instagram.com/sudeep2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeep2102" height="30" width="40" /></a>
+<a href="https://instagram.com/sudeep_2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeep2102" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/sudeepsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudeepsahu" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/sudeep_2102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudeep_2102" height="30" width="40" /></a>
 </p>
