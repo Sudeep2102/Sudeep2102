@@ -20,9 +20,9 @@
 - 📫 How to reach me **sudeepsahu58@gmail.com**
 
 ![Sudeep2102's Stats](https://github-readme-stats.vercel.app/api?username=Sudeep2102&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
-![Sudeep2102's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sudeep2102&theme=highcontrast&hide_border=true))
+![Sudeep2102's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sudeep2102&theme=highcontrast&hide_border=true)
 
-![Sudeep2102's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep2102&theme=highcontrast&show_icons=true&hide_border=true&layout=compact))
+![Sudeep2102's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeep2102&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ### Blogs posts:
 
