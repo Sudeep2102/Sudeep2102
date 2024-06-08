@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Sudeep Sahu</h1>
+<h1 align="center">Hi, I'm Sudeep Sahu</h1>
 <h3 align="center">I'm a dedicated software development engineer with a passion for creating innovative solutions that address real-world problems and make a positive impact. With a constant drive for learning and growth, I'm always seeking new challenges and opportunities to expand my skill set.</h3>
 
 <img width="1834" alt="Make your README (3)" src="bg.gif">
